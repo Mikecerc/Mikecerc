@@ -2,7 +2,7 @@
 <h3 align="center">Im currently a high school student learning both front and backend development</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p alight: "left">Feel free to take a look at my portfolio [here](https://mikecerc.pages.dev)</p>
+<p alight: "left">Feel free to take a look at my portfolio <a href=https://mikecerc.pages.dev>here<a/></p>
 <p align="left">
 </p>
 
