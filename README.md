@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Michael</h1>
 <h3 align="center">Im currently a high school student learning both front and backend development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e" alt="e" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
+<p alight: "left">Feel free to take a look at my portfolio [here](https://mikecerc.pages.dev)</p>
 <p align="left">
 </p>
 
