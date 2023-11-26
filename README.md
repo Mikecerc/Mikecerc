@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Michael</h1>
-<h3 align="center">I'm currently a high school student learning both front and backend development</h3>
+<h3 align="center">I'm currently an electrical engineering sophomore student learning both front and backend development in my spare time!</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p alight: "left">Feel free to take a look at my portfolio <a href=https://mikecerc.com>here<a/></p>
+<p align="left">Feel free to take a look at my portfolio <a href=https://mikecerc.com>here<a/></p>
+<p align="left">Or connect with me on LinkedIn <a href="https://www.linkedin.com/in/michael-cercone/">here</a></p>
 <p align="left">
 </p>
 
