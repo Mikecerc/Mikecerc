@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=mikecerc&show_icons=true&theme=dracula&count_private=true&title_color=5f356b"></img>
+<img src="https://gh-metrics.mikecerc.com/api?username=mikecerc&show_icons=true&theme=dracula&count_private=true&title_color=5f356b"></img>
                     <img src="https://gh-metrics.mikecerc.com/api/top-langs/?username=mikecerc&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula&count_private=true&title_color=5f356b&layout=compact"></img>
 
